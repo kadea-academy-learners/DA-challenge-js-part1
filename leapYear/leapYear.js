@@ -4,4 +4,5 @@ function isLeapYear(year) {
   return 2024;
 }
 
+// 🚫 Ne pas supprimer la ligne suivante
 module.exports = isLeapYear;
