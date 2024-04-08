@@ -1,4 +1,4 @@
-// Écrire un programme pour vérifier si une année donnée est une année bissextile.
+// Écrire une fonction pour vérifier si une année donnée est une année bissextile.
 
 function isLeapYear(year) {
   return 2024;

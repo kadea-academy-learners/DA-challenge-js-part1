@@ -2,7 +2,7 @@
 
 
 function sumOfDigits(n) {
-    return n;
+    return "ok";
 }
 
 module.exports = sumOfDigits;
