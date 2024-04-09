@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest --noStackTrace"
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^29.7.0"
